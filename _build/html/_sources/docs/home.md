@@ -1,4 +1,4 @@
-# Jupyter Book Tutorial
+# Hopefully working site
 
 (Last updated: May 26, 2024)
 
